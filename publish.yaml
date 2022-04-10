@@ -2,9 +2,9 @@ Type: Application
 Name: start-registry-nodejs12
 Provider:
   - 阿里云
-Version: 0.0.1
+Version: 0.0.2
 Description: 快速部署一个 Node.JS 12 的 HTTP 类型的 Hello World 函数到阿里云函数计算。（registry示例）
-HomePage: https://github.com/liufangchen/PublishDemo
+HomePage: https://github.com/liufangchen/ServerlessRegistryTest
 Tags: #标签详情
   - 应用发布
   - 你好世界
